@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { StyleSheet, Button, Image, Platform, Appearance } from 'react-native';
+import { StyleSheet, Button, Image, Appearance } from 'react-native';
 import RNPickerSelect from 'react-native-picker-select';
 import * as SecureStore from 'expo-secure-store';
 import * as ScreenOrientation from 'expo-screen-orientation';
