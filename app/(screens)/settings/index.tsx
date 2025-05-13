@@ -6,7 +6,7 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { ThemedKeyboardAvoidingView } from '@/components/ThemedKeyboardAvoidingView';
 
-export default function LibrariesScreen() {
+export default function SettingsScreen() {
   return (
     <ThemedKeyboardAvoidingView>
       <ThemedScrollView>
